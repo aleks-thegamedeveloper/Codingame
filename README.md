@@ -10,5 +10,5 @@ https://www.codingame.com/replay/799501168
 
 # Algorithms puzzles
 Hard
--> CGX Formatter
+CGX Formatter
 
