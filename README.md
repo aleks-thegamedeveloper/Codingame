@@ -8,3 +8,7 @@ For Stage 3 will need to be reworked to plot a detailed path before hand.
 
 https://www.codingame.com/replay/799501168
 
+# Algorithms puzzles
+Hard
+-> CGX Formatter
+
