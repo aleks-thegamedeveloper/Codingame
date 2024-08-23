@@ -14,3 +14,5 @@ Hard puzzles:
 
 CGX Formatter
 
+Encounter Surface - https://www.codingame.com/training/hard/encounter-surface
+
