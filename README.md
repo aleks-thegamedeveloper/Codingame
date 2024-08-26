@@ -10,9 +10,11 @@ For Stage 3 will need to be reworked to plot a detailed path before hand.
 https://www.codingame.com/replay/799501168
 
 # Algorithms puzzles
-Hard puzzles:
+## Hard puzzles 
 
 CGX Formatter
 
 Encounter Surface - https://www.codingame.com/training/hard/encounter-surface
 
+## Easy puzzles
+Unary - https://www.codingame.com/ide/puzzle/unary
