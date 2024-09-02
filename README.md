@@ -12,7 +12,7 @@ https://www.codingame.com/replay/799501168
 ## Algorithms puzzles
 ### Hard puzzles 
 
-CGX Formatter
+CGX Formatter - https://www.codingame.com/training/hard/cgx-formatter
 
 Encounter Surface - https://www.codingame.com/training/hard/encounter-surface
 
