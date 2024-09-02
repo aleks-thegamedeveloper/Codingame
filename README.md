@@ -16,5 +16,10 @@ CGX Formatter
 
 Encounter Surface - https://www.codingame.com/training/hard/encounter-surface
 
+### Medium puzzles
+Death First Search episode 1 - https://www.codingame.com/ide/puzzle/death-first-search-episode-1
+
 ### Easy puzzles
 Unary - https://www.codingame.com/ide/puzzle/unary
+
+Mime type - https://www.codingame.com/ide/puzzle/mime-type
