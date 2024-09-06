@@ -25,3 +25,5 @@ Don't Panic episode 1 - https://www.codingame.com/ide/puzzle/don't-panic-episode
 Unary - https://www.codingame.com/ide/puzzle/unary
 
 Mime type - https://www.codingame.com/ide/puzzle/mime-type
+
+Defibrillators - https://www.codingame.com/ide/puzzle/defibrillators
