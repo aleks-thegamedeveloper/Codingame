@@ -29,6 +29,8 @@ Stock Exchange Losses - https://www.codingame.com/ide/puzzle/stock-exchange-loss
 
 Conway Sequence - https://www.codingame.com/ide/puzzle/conway-sequence
 
+War - https://www.codingame.com/ide/puzzle/winamax-battle
+
 Russian dolls - https://www.codingame.com/ide/puzzle/russian-dolls
 
 ### Easy puzzles
