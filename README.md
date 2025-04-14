@@ -23,6 +23,8 @@ Don't Panic episode 1 - https://www.codingame.com/ide/puzzle/don't-panic-episode
 
 Scrabble - https://www.codingame.com/ide/puzzle/scrabble
 
+The Fall episode 1 - https://www.codingame.com/ide/puzzle/the-fall-episode-1
+
 Russian dolls - https://www.codingame.com/ide/puzzle/russian-dolls
 
 ### Easy puzzles
