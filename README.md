@@ -21,6 +21,8 @@ Death First Search episode 1 - https://www.codingame.com/ide/puzzle/death-first-
 
 Don't Panic episode 1 - https://www.codingame.com/ide/puzzle/don't-panic-episode-1
 
+Scrabble - https://www.codingame.com/ide/puzzle/scrabble
+
 Russian dolls - https://www.codingame.com/ide/puzzle/russian-dolls
 
 ### Easy puzzles
