@@ -25,6 +25,8 @@ Scrabble - https://www.codingame.com/ide/puzzle/scrabble
 
 The Fall episode 1 - https://www.codingame.com/ide/puzzle/the-fall-episode-1
 
+Stock Exchange Losses - https://www.codingame.com/ide/puzzle/stock-exchange-losses
+
 Russian dolls - https://www.codingame.com/ide/puzzle/russian-dolls
 
 ### Easy puzzles
