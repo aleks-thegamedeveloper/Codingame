@@ -27,6 +27,8 @@ The Fall episode 1 - https://www.codingame.com/ide/puzzle/the-fall-episode-1
 
 Stock Exchange Losses - https://www.codingame.com/ide/puzzle/stock-exchange-losses
 
+Conway Sequence - https://www.codingame.com/ide/puzzle/conway-sequence
+
 Russian dolls - https://www.codingame.com/ide/puzzle/russian-dolls
 
 ### Easy puzzles
