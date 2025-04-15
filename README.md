@@ -31,6 +31,8 @@ Conway Sequence - https://www.codingame.com/ide/puzzle/conway-sequence
 
 War - https://www.codingame.com/ide/puzzle/winamax-battle
 
+Telephone numbers -  https://www.codingame.com/ide/puzzle/telephone-numbers
+
 Russian dolls - https://www.codingame.com/ide/puzzle/russian-dolls
 
 ### Easy puzzles
